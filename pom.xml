@@ -4,7 +4,7 @@
     <name>${project.artifactId}</name>
     <groupId>mavenrelease</groupId>
     <artifactId>mavenrelease1</artifactId>
-    <version>y</version>
+    <version>1.1-SNAPSHOT</version>
 
     <properties>
         <jdk.version>1.8</jdk.version>
@@ -36,7 +36,7 @@
         <developerConnection>scm:git:git@github.com:sharadvishe/mavenrelease.git</developerConnection>
         <connection>scm:git:git@github.com:sharadvishe/mavenrelease.git</connection>
 	<url>scm:git:git@github.com:sharadvishe/mavenrelease.git</url>
-      <tag>y</tag>
+      <tag>HEAD</tag>
   </scm>
     <distributionManagement>
         <repository>
